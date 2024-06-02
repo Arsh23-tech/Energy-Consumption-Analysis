@@ -12,3 +12,21 @@ Key findings include:
 3. **Comprehensive Approach**: Emphasizing the importance of considering economic, environmental, and social factors in energy management to achieve a sustainable and energy-efficient future for the region.
 
 By implementing these insights and strategies, policymakers and energy providers can foster a more sustainable energy future for both states.
+
+Below are some of the results that we find out through this analysis and predictions:
+
+
+### Energy Consumption By Income and No. of Bedrooms
+![energy_consumption_by_income_and_bedrooms_filtered](https://github.com/Arsh23-tech/Energy-Consumption-Analysis/assets/72157687/2b42e9b0-a202-4e57-ab5f-b4bf8a6a52d9)
+
+
+### Energy Consumption By Income and No. of Occupants
+![energy_consumption_by_income_and_occupants](https://github.com/Arsh23-tech/Energy-Consumption-Analysis/assets/72157687/8f9e3405-dae8-4795-9088-46dbab258cab)
+
+
+### Energy Consumption By Income and Insulation Level
+![Screenshot 2024-04-29 121407](https://github.com/Arsh23-tech/Energy-Consumption-Analysis/assets/72157687/d9fb781e-6de0-431e-98d7-2be64a5d1b49)
+
+
+### Prediction of Energy Consumption for next year
+![Screenshot 2024-04-28 120545](https://github.com/Arsh23-tech/Energy-Consumption-Analysis/assets/72157687/c2b20d56-c36f-4fab-96ed-ae33d7fb9af0)
